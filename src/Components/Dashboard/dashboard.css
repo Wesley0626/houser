@@ -1,0 +1,24 @@
+#green{
+  background: #AFD4C0;
+  height: 90vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center
+}
+#backness{
+  height: 90vh;
+  width: 65vw;
+  background: #e5f4ec;
+
+}
+#dashboard-head{
+  display: flex;
+  justify-content: center;
+  width: 61vw;
+  height: 10vh;
+  border-bottom: solid 2px #519872;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #519872;
+}

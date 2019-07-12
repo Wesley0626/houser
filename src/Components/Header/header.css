@@ -1,0 +1,13 @@
+#header-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 10vh;
+  width: 100vw;
+  background: #519872;
+  color: #e5f4ec;
+  font-size: 175%
+}
+#header-thing {
+margin: 0 15vw 0 0;
+}
